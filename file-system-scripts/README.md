@@ -84,6 +84,6 @@ These scripts were created to help you understand and practice:
 **Ville Ekdal**
 ---
 
-## 📜 License
+##  License
 
 This folder is covered under the **MIT License** (same as root project).
