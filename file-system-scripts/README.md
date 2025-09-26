@@ -79,7 +79,8 @@ These scripts were created to help you understand and practice:
 
 ##  Author
 
-**Mustafa Habeb**  
+**Mustafa Habeb** 
+
 **Sohil Moghimiazar**
 **Ville Ekdal**
 ---
